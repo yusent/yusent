@@ -1,6 +1,6 @@
 ## Hi there, I'm Yusent (aka Yus)
 
-### I'm a Father, husband, and developer!
+### I'm a father, husband, and developer!
 - I love programming in Haskell
 - I'm currently working on freelance projects (mainly RoR applications)
 - I'm currently learning Scala
