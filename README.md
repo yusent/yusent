@@ -12,7 +12,7 @@
 [<img align="left" alt="yusent | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yusent12)
 [<img align="left" alt="yusent | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/yusent)
 
-<br />
+<br /><br />
 
 ### Language and tools:
 <img align="left" alt="Haskell language" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/haskell.svg" />
