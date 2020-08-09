@@ -6,11 +6,11 @@
 - I'm currently learning Scala
 
 ### Connect with me:
-[<img align="left" alt="yusent | Protonmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />](mailto:yusent@protonmail.com)
-[<img align="left" alt="yusent | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yusent)
-[<img align="left" alt="yusent | Hackerrank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/yusent)
-[<img align="left" alt="yusent | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yusent12)
-[<img align="left" alt="yusent | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/yusent)
+[<img align="left" alt="yusent | Protonmail" width="24px" src="./icons/protonmail.svg" />](mailto:yusent@protonmail.com)
+[<img align="left" alt="yusent | LinkedIn" width="24px" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/yusent)
+[<img align="left" alt="yusent | Hackerrank" width="24px" src="./icons/hackerrank.svg" />](https://www.hackerrank.com/yusent)
+[<img align="left" alt="yusent | Twitter" width="24px" src="./icons/twitter.svg" />](https://twitter.com/yusent12)
+[<img align="left" alt="yusent | Facebook" width="24px" src="./icons/facebook.svg" />](https://www.facebook.com/yusent)
 
 <br /><br />
 
