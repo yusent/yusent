@@ -40,4 +40,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusent&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats:
-[![Yusent's github stats](https://github-readme-stats.vercel.app/api?username=yusent&show_icons=true&count_private=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yusent's github stats](https://github-readme-stats.vercel.app/api?username=yusent&show_icons=true&count_private=true&theme=dark&hide_title=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
