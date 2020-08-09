@@ -6,33 +6,33 @@
 - I'm currently learning Scala
 
 ### Connect with me:
-[<img align="left" alt="yusent | Protonmail" width="24px" src="./icons/protonmail.svg" />](mailto:yusent@protonmail.com)
-[<img align="left" alt="yusent | LinkedIn" width="24px" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/yusent)
-[<img align="left" alt="yusent | Hackerrank" width="24px" src="./icons/hackerrank.svg" />](https://www.hackerrank.com/yusent)
-[<img align="left" alt="yusent | Twitter" width="24px" src="./icons/twitter.svg" />](https://twitter.com/yusent12)
-[<img align="left" alt="yusent | Facebook" width="24px" src="./icons/facebook.svg" />](https://www.facebook.com/yusent)
+[<img align="left" alt="yusent | Protonmail" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/protonmail.svg?raw=true" />](mailto:yusent@protonmail.com)
+[<img align="left" alt="yusent | LinkedIn" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/linkedin.svg?raw=true" />](https://www.linkedin.com/in/yusent)
+[<img align="left" alt="yusent | Hackerrank" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/hackerrank.svg?raw=true" />](https://www.hackerrank.com/yusent)
+[<img align="left" alt="yusent | Twitter" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/twitter.svg?raw=true" />](https://twitter.com/yusent12)
+[<img align="left" alt="yusent | Facebook" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/facebook.svg?raw=true" />](https://www.facebook.com/yusent)
 
 <br /><br />
 
 ### Language and tools:
-<img align="left" alt="Haskell language" width="24px" src="./icons/haskell.svg" />
-<img align="left" alt="Ruby language" width="24px" src="./icons/ruby.svg" />
-<img align="left" alt="Python language" width="24px" src="./icons/python.svg" />
-<img align="left" alt="JS language" width="24px" src="./icons/javascript.svg" />
-<img align="left" alt="Scala language" width="24px" src="./icons/scala.svg" />
-<img align="left" alt="Ruby on Rails framework" width="24px" src="./icons/rubyonrails.svg" />
-<img align="left" alt="React library" width="24px" src="./icons/react.svg" />
-<img align="left" alt="SASS preprocessor" width="24px" src="./icons/sass.svg" />
-<img align="left" alt="HTML" width="24px" src="./icons/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="./icons/css3.svg" />
-<img align="left" alt="Bootstrap CSS framework" width="24px" src="./icons/bootstrap.svg" />
-<img align="left" alt="jQuery" width="24px" src="./icons/jquery.svg" />
-<img align="left" alt="PostgreSQL DB" width="24px" src="./icons/postgresql.svg" />
-<img align="left" alt="GNU Bash" width="24px" src="./icons/gnubash.svg" />
-<img align="left" alt="Git" width="24px" src="./icons/git.svg" />
-<img align="left" alt="Vim" width="24px" src="./icons/vim.svg" />
-<img align="left" alt="Travis CI" width="24px" src="./icons/travisci.svg" />
-<img align="left" alt="Circle CI" width="24px" src="./icons/circleci.svg" />
+<img align="left" alt="Haskell language" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/haskell.svg?raw=true" />
+<img align="left" alt="Ruby language" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/ruby.svg?raw=true" />
+<img align="left" alt="Python language" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/python.svg?raw=true" />
+<img align="left" alt="JS language" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/javascript.svg?raw=true" />
+<img align="left" alt="Scala language" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/scala.svg?raw=true" />
+<img align="left" alt="Ruby on Rails framework" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/rubyonrails.svg?raw=true" />
+<img align="left" alt="React library" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/react.svg?raw=true" />
+<img align="left" alt="SASS preprocessor" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/sass.svg?raw=true" />
+<img align="left" alt="HTML" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/html5.svg?raw=true" />
+<img align="left" alt="CSS" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/css3.svg?raw=true" />
+<img align="left" alt="Bootstrap CSS framework" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/bootstrap.svg?raw=true" />
+<img align="left" alt="jQuery" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/jquery.svg?raw=true" />
+<img align="left" alt="PostgreSQL DB" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/postgresql.svg?raw=true" />
+<img align="left" alt="GNU Bash" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/gnubash.svg?raw=true" />
+<img align="left" alt="Git" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/git.svg?raw=true" />
+<img align="left" alt="Vim" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/vim.svg?raw=true" />
+<img align="left" alt="Travis CI" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/travisci.svg?raw=true" />
+<img align="left" alt="Circle CI" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/circleci.svg?raw=true" />
 
 <br /><br />
 
