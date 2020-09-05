@@ -8,34 +8,35 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="facebook.svg"
-   id="svg2428"
+   sodipodi:docname="telegram.svg"
+   id="svg68"
    version="1.1"
    viewBox="0 0 24 24"
    role="img">
   <metadata
-     id="metadata2434">
+     id="metadata74">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Telegram icon</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2432" />
+     id="defs72" />
   <sodipodi:namedview
-     inkscape:current-layer="svg2428"
+     inkscape:current-layer="svg68"
      inkscape:window-maximized="0"
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="12"
-     inkscape:cx="12"
+     inkscape:cx="7.2450176"
      inkscape:zoom="35.541667"
      showgrid="false"
-     id="namedview2430"
+     id="namedview70"
      inkscape:window-height="1056"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
@@ -47,9 +48,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <title
-     id="title2424">Facebook icon</title>
+     id="title64">Telegram icon</title>
   <path
-     style="fill:#1877f2;fill-opacity:1"
-     id="path2426"
-     d="M23.9981 11.9991C23.9981 5.37216 18.626 0 11.9991 0C5.37216 0 0 5.37216 0 11.9991C0 17.9882 4.38789 22.9522 10.1242 23.8524V15.4676H7.07758V11.9991H10.1242V9.35553C10.1242 6.34826 11.9156 4.68714 14.6564 4.68714C15.9692 4.68714 17.3424 4.92149 17.3424 4.92149V7.87439H15.8294C14.3388 7.87439 13.8739 8.79933 13.8739 9.74824V11.9991H17.2018L16.6698 15.4676H13.8739V23.8524C19.6103 22.9522 23.9981 17.9882 23.9981 11.9991Z" />
+     style="fill:#2ca5e0;fill-opacity:1"
+     id="path66"
+     d="M23.91 3.79L20.3 20.84c-.25 1.21-.98 1.5-2 .94l-5.5-4.07-2.66 2.57c-.3.3-.55.56-1.1.56-.72 0-.6-.27-.84-.95L6.3 13.7l-5.45-1.7c-1.18-.35-1.19-1.16.26-1.75l21.26-8.2c.97-.43 1.9.24 1.53 1.73z" />
 </svg>
