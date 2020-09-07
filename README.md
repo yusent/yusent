@@ -2,8 +2,8 @@
 
 ### I'm a father, husband, and developer!
 - I love programming in Haskell
-- I'm currently working on freelance projects (mainly RoR applications)
-- I'm currently learning Scala
+- I'm currently working for [Resuelve](https://github.com/resuelve)
+- I'm currently learning Elixir
 
 ### Connect with me:
 [<img align="left" alt="yusent | Protonmail" width="24px" src="https://github.com/yusent/yusent/blob/master/icons/protonmail.svg?raw=true" />](mailto:yusent@protonmail.com)
