@@ -1,4 +1,4 @@
-## Hi there, I'm Yusent (aka Yus)
+## Hi there, I'm Yus
 
 ### I'm a father, husband, and developer!
 - I love programming in Haskell
