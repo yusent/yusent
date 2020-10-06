@@ -1,5 +1,5 @@
 ```haskell
-module MySelf where
+module Myself where
 
 type Skill = String
 
@@ -14,10 +14,10 @@ instance Show Profile where
          : (bulletify <$> mainSkills p)
 
 main :: IO ()
-main = print mySelf
+main = print myself
 
-mySelf :: Profile
-mySelf = Profile "Yus"
+myself :: Profile
+myself = Profile "Yus"
   [ "Haskell"
   , "Ruby"
   , "JavaScript"
